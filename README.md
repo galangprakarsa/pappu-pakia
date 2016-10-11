@@ -21,7 +21,7 @@ shared on [CodeTheory](http://codetheory.in) and
 ## Game Libraries Used
 
 No Gaming/Physics Libraries/Frameworks used. All Custom Code and Custom Physics.
-Only jQuery used for quick and few DOM manipulations.
+Only [jQuery](https://jquery.com/) used for quick and few DOM manipulations.
 
 ## About
 
